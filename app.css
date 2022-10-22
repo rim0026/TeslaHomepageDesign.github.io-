@@ -140,9 +140,9 @@ html{
 .footer{
         margin-left:320px;
        }
-@media(max-width:720px){
+@media(max-width:480px){
  .footer p{margin-right:100px;
-         padding-right:20px;
+         
 
 }
 }
