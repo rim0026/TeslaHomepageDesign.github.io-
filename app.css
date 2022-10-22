@@ -143,6 +143,7 @@ html{
 @media(max-width:600px){
  body .footer p{
            right:30%;
-    
+
+    grid-template-columns: 1fr 1fr;
           }
 }
