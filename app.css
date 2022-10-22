@@ -139,7 +139,7 @@ html{
 }
 @media(max-width:800px){
  .footer{
-         display:flex;
+         display:;
          padding-right:20px;
 }
 }
