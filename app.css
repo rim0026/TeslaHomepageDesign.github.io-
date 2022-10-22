@@ -140,4 +140,6 @@ html{
 @media(max-width:800px){
  .footer{
          display:flex;
-         right:190px;}}
+         margin-left:190px;
+}
+}
