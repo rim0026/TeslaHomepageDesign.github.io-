@@ -137,8 +137,8 @@ html{
 .button2:active{
     background-color: #eee;
 }
-@media(max-width:800px){
- .footer p{
+@media and screen only(max-width:800px){
+ .footer{
          display:;
          padding-right:20px;
 }
