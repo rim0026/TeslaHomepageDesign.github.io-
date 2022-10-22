@@ -142,7 +142,7 @@ html{
        }
 @media(max-width:600px){
   .footer p{
-           right:100px;
-         left:0;
+           right:30%;
+    
           }
 }
