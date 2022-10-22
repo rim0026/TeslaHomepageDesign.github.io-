@@ -137,3 +137,7 @@ html{
 .button2:active{
     background-color: #eee;
 }
+@media(max-width:800px){
+ .footer{
+         display:flex;
+margin-left:30px;}}
