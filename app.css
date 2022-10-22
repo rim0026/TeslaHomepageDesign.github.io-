@@ -141,7 +141,7 @@ html{
         margin-left:320px;
        }
 @media(max-width:600px){
-  .footer p{
+ body .footer p{
            right:30%;
     
           }
