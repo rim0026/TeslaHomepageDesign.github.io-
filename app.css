@@ -140,10 +140,4 @@ html{
 .footer{
         margin-left:320px;
        }
-@media(max-width:600px){
- body .footer p{
-           right:30%;
 
-    grid-template-columns: 1fr 1fr;
-          }
-}
