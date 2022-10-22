@@ -142,7 +142,7 @@ html{
        }
 @media and screen only(max-width:800px){
  .footer{
-         display:;
+         display:block;
          padding-right:20px;
 }
 }
