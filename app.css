@@ -138,11 +138,11 @@ html{
     background-color: #eee;
 }
 .footer{
-        margin-left:280px;
+        margin-left:380px;
        }
 @media and screen only(max-width:800px){
  .footer{
-         display:block;
+         
          padding-right:20px;
 }
 }
