@@ -137,6 +137,9 @@ html{
 .button2:active{
     background-color: #eee;
 }
+.footer{
+        margin-left:280px;
+       }
 @media and screen only(max-width:800px){
  .footer{
          display:;
