@@ -7,5 +7,5 @@ DEPLOYEMENT--------
 
 I HAVE DEPLOYED THE WEBSITE IN MY GITHUBE THROUGH GITHUB.IO
 
-
+https://rim0026.github.io/TeslaHomepageDesign.github.io-/
 
